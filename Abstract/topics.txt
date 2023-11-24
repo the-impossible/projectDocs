@@ -1,0 +1,16 @@
+Realtime voting application for elecom-Computer science department
+
+Place finder for newly admitted student using CST kaduna polytechnic as case study
+
+Telegram bot that provides academic information for students
+
+online notice board for computer science department
+
+online suggestion and compaint system for computer science department
+online student project and seminar assessment system
+
+google scholar
+EBSCO
+ProQuest
+
+event planning and rsvp
